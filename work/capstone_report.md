@@ -2,10 +2,10 @@
 
 # Capstone Report: Refresh / Content Opportunity Scoring
 
-- **Author:** [Attaf Muneeb]
+- **Author:** Attaf Muneeb
 - **Lane:** Refresh / Content Opportunity Scoring
 - **Repo:** https://github.com/Msdff/FlyRankAiAssignment
-- **Date:** [28-8-2026]
+- **Date:** [29-8-2026]
 
 ## 0. Abstract
 
