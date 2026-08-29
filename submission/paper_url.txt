@@ -1,1 +1,2 @@
-PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
+https://msdff.github.io/FlyRankAiAssignment/
+
